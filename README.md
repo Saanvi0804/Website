@@ -5,4 +5,5 @@ Features:
 3. Remove tasks from the list
 
 Screenshot:
-<img width="960" alt="image" src="https://github.com/Saanvi0804/Website/assets/169428156/f18a6c8c-f570-4056-a4ec-4379252eb4c2">
+<img width="960" alt="image" src="https://github.com/Saanvi0804/Website/assets/169428156/9463cc40-f40c-4acb-8ad8-d9bf0dab50b8">
+
